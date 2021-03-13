@@ -1,0 +1,6 @@
+[submodule "RegistroFront"]
+	path = RegistroFront
+	url = https://github.com/ElLuchoMan/RegistroFront.git
+[submodule "RegistroBack"]
+	path = RegistroBack
+	url = https://github.com/ElLuchoMan/RegistroBack.git
