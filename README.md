@@ -3,6 +3,7 @@ Registro de usuarios creado en .Net Core, MySql y Angular 11
 <hr/>
 <h3> Link para verificar desarrollo</h3>
 https://registroevento.netlify.app/
+<hr/>
            <h4>Versiones utilizadas en Back:</h4>
 <li><code>Entity Framework Core v5.0.3</code>
 <li><code>Entity Framework Core Tools  v5.0.3</code>
